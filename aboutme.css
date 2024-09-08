@@ -1,0 +1,17 @@
+.dp{
+    width: 200px; 
+    height: 200px;
+    background-color:skyblue;
+    border-radius: 200px;
+    float:left;
+    margin: 10px 10px 10px 100px;
+}
+p {
+    font-size: 25pt;
+    color:#010127;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    line-height: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+}

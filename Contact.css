@@ -1,0 +1,36 @@
+.dethead {
+    font-size: 2.5vw;
+    color:#010127;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+.subdet {
+    font-size: 20pt;
+    color:white;
+    font-family:Century Gothic;
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 35px;
+    width: 100%;
+    
+}
+.bigbox{
+    width: auto;
+    height:auto;
+    background-color:none;
+}
+.thikim
+{
+    width: auto;
+    height: auto;
+    background-color:none;
+    float: left;
+   padding-right: 20px;
+   padding-top: 10px;
+    
+    
+}

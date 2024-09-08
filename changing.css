@@ -1,0 +1,64 @@
+
+            .abt{
+                width: 100%;
+                height: 200px;
+                background-color: blueviolet;
+                color: white;
+                float: left;
+                font-family: Berlin Sans FB;
+                font-size: 30pt;
+                text-align: center;
+                padding-top: 90px;              
+                }
+            .abtmtr{
+                width: 100%;
+                height: 500px;
+                background-color: rgb(213, 208, 216);
+                float: left;
+                }
+            .net{
+                font-family: Berlin Sans FB;
+                font-size: 16pt;
+                text-align: left;
+                padding-top: 10px;
+                padding-left: 510px;  
+            }    
+        .mtr {
+              font-size: 20pt;
+              color: black;  
+              font-family: Comic Sans MS;
+              text-align: justify;
+        }
+        
+      
+      .button{
+          background-color:blueviolet; 
+          float: right;
+          cursor: pointer; 
+          color: white; 
+          font-family:Berlin Sans FB; 
+          font-size: 19pt; 
+          border-radius: 15px; border-color: blueviolet; align-content: flex-start;
+      }
+
+      .button:hover {
+        background-color: #FCF9F9;
+                  color: blueviolet;
+      }
+
+      .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%
+        
+      }
+.sign{
+    width: 321px;
+    height: 178px;
+    float: left;
+    background-color:none;
+    margin: -40px 0px 0px -90px;
+    position: absolute;
+
+}
